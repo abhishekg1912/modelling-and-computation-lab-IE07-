@@ -1,0 +1,38 @@
+             Hassan Jodhpur  Trichy  Simla  Vijayawada  Dibrugarh Raipur Agartala
+Ahmedabad     627    617     1270       2072       1415      2943    1064  4265
+Bengaluru     159  1432      351      3372       237     3373   1456   5059 
+Chennai	      609  1943       77      3365       298     3021   1484   4803 
+Delhi	      2143   671     3876       537      1902      1941   1682  3348
+Kolkata	      2742  2089     1931      2199      1226      739    691   1128      
+Lucknow	       2053   860     2995        68      2069      2065    993  3342      
+Mumbai	       656   817     1245      2141       1534     3351   1137  3887
+Hyderabad         195   1862    1331      2921       402     2825    563   4441
+
+
+# ------------------------------------------------------------------------------------------------
+
+
+City          Demand
+Hassan         175
+Jodhpur        400
+Trichy         550
+Simla          70
+Vijayawada     650
+Dibrugarh      100
+Raipur 	        65
+Agartala        85
+Total demand  2095 
+
+
+# ------------------------------------------------------------------------------------------------
+
+City           Available Stock
+Ahmedabad       185
+Bengaluru       350
+Chennai         405
+Delhi           280
+Kolkata	        105	
+Lucknow	         75
+Mumbai          425
+Hyderabad       270
+Total Avl stock 2095
